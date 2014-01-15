@@ -12,7 +12,7 @@
 3. This bag `is` heavy.  
 4. These bags `are` heavy.  
 5. Look! There `is` Carol.  
-6. My brother and I `are` good tennis phayers.  
+6. My brother and I `are` good tennis players.  
 7. Emily `is` at home. Her children `are` at school.  
 8. I`'m` a taxi driver. My sister `is` a nurse.
 
@@ -30,9 +30,9 @@
 1. `My name is Alexey`  
 2. `I'm from Russia`  
 3. `I'm 26`  
-4. `I'm junior frontend developer`  
-5. `My favourite colour is grey`  
-6. `I'm unterested in vodka and balalaika`
+4. `I'm junior front-end developer`  
+5. `My favorite color is grey`  
+6. `I'm interested in vodka and balalaika`
 
 **1.5 Write sentences for the pictures. Use:**  
 1. She's thirsty.  
@@ -50,7 +50,7 @@
 5. Diamonds `aren't` cheap.  
 6. Toronto `isn't` in the US.  
 
-**Write true sentances. positive or negative. Use I'm/I'm not**  
+**Write true sentences. positive or negative. Use I'm/I'm not**  
 7. I'm tired. / I'm not tired.  
 8. `I'm not` hungry.  
 9. `I'm` a good swimmer.  
